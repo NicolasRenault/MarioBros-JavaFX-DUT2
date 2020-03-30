@@ -1,0 +1,36 @@
+.GridPane-Jeu {
+    -fx-background-image: url("/Images/backgroundJeu.png");
+}
+
+.GridPane-Echap {
+    -fx-background-color: rgba(180, 169, 169, 0.5);
+    -fx-background-image: none;
+}
+GridPane {
+    -fx-border-color: grey;
+    -fx-background-image: url("/Images/menu.jpg");
+    -fx-background-size: cover;
+    -fx-background-radius: 10;
+}
+
+
+Button {
+    -fx-font:  bold 15px "Serif";
+    -fx-text-fill: #8B4513;
+    -fx-padding: 10;
+    -fx-background-color: #F4A460;
+    -fx-background-radius: 10;
+}
+
+Button:hover{
+    -fx-background-color: #ff8a40;
+    -fx-border-color: black;
+    -fx-border-radius: 10;
+}
+
+Text {
+    -fx-fill: #8B4513;
+    -fx-font: italic bold 30px "Serif";
+    -fx-background-size: cover;
+
+}

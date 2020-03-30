@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<?import javafx.scene.text.Text?>
+<GridPane xmlns:fx="http://javafx.com/fxml"
+            fx:controller="Controlleur.Vue.ControlleurMort"
+            prefHeight="400.0" prefWidth="700.0" alignment="center" stylesheets="@Style/MainStylesheet.css">
+
+
+    <Text text=" Perdu...." />
+
+    <Button fx:id="bouttonRelancer" text="Relancer" onAction="#lancerJeu" GridPane.rowIndex="1" GridPane.columnIndex="0"/>
+
+    <Button text="Sauvegarder" onAction="#sauvegarderScore" GridPane.rowIndex="2" GridPane.columnIndex="0"/>
+
+    <Button text="Retour au menu" onAction="#quitterAuMenu" GridPane.rowIndex="3" GridPane.columnIndex="0"/>
+
+    <Button text="Retour au bureau" onAction="#quitterAppli" GridPane.rowIndex="4" GridPane.columnIndex="0"/>
+
+</GridPane>
