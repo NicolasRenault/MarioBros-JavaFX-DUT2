@@ -1,7 +1,13 @@
-# Projet-JavaFX-2eme-Annee-DUT
+# Mario Bros
+### EN
 
-Ce projet de 2éme année de DUT Informatique visait à découvrir l’utilisation des bibliothèques en utilisant JavaFX pour créer une application avec sujet au choix tout en suivant une fiche de compétence.
+This is a second year project of my two-year university degree in computer science. The purpose of this project was to introduce us to librairies using JavaFX in order to create an application.
+We had the choice of the subject but we had a competency map to lead the project, we chose to realized a MarioBros
 
-Le sujet était au choix et nous avons choisis de faire un MarioBros.
+This project was carried out in pairs with the help of Thomas Vincent.
 
-Ce projet a été réaliser en binôme avec Thomas Vincent.
+### FR
+
+Ce projet de 2éme année de DUT Informatique avait pour but de découvrir l’utilisation des bibliothèques en utilisant JavaFX pour créer une application. Le sujet était au choix mais nous avions une fiche de compétence à suivre, nous avons choisis de réaliser un MarioBros.
+
+Ce projet a été réalisé en binôme avec Thomas Vincent.
